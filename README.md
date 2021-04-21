@@ -1,2 +1,2 @@
 # ToxicityClassifier
-Toxic Tweet Classification NLP Project
+Toxic Tweet Classification NLP Project.
